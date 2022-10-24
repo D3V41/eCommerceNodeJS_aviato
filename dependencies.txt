@@ -1,0 +1,12 @@
+npm init -y
+npm i express
+npm i --save-dev nodemon
+npm i ejs
+npm i dotenv
+npm i --save-dev dotenv
+npm i jsonwebtoken
+npm i cookie-parser
+npm i bcrypt
+npm i express-validator
+npm i mongoose
+npm run start
